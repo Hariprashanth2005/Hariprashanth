@@ -1,0 +1,10 @@
+list=[]
+print(list)
+list=[12,21,32]
+print(list)
+list=[geeks,for,geeks]
+print(list[0])
+print(list[2])
+print(list[-1])
+print(list[-5])
+print(len(list))
